@@ -1,0 +1,165 @@
+{
+    "feature": 13,
+    "false": {
+        "feature": 7,
+        "false": {
+            "feature": 19,
+            "false": null,
+            "true": {
+                "feature": 1,
+                "false": {
+                    "feature": 25,
+                    "false": null,
+                    "true": {
+                        "feature": 22,
+                        "false": {
+                            "feature": null,
+                            "false": null,
+                            "true": null,
+                            "prediction": 1
+                        },
+                        "true": {
+                            "feature": null,
+                            "false": null,
+                            "true": null,
+                            "prediction": 0
+                        }
+                    }
+                },
+                "true": {
+                    "feature": 10,
+                    "false": {
+                        "feature": null,
+                        "false": null,
+                        "true": null,
+                        "prediction": 1
+                    },
+                    "true": {
+                        "feature": null,
+                        "false": null,
+                        "true": null,
+                        "prediction": 0
+                    }
+                }
+            }
+        },
+        "true": {
+            "feature": 1,
+            "false": {
+                "feature": 25,
+                "false": null,
+                "true": {
+                    "feature": 16,
+                    "false": {
+                        "feature": null,
+                        "false": null,
+                        "true": null,
+                        "prediction": 1
+                    },
+                    "true": {
+                        "feature": null,
+                        "false": null,
+                        "true": null,
+                        "prediction": 0
+                    }
+                }
+            },
+            "true": {
+                "feature": 4,
+                "false": {
+                    "feature": null,
+                    "false": null,
+                    "true": null,
+                    "prediction": 1
+                },
+                "true": {
+                    "feature": null,
+                    "false": null,
+                    "true": null,
+                    "prediction": 0
+                }
+            }
+        }
+    },
+    "true": {
+        "feature": 8,
+        "false": {
+            "feature": 20,
+            "false": null,
+            "true": {
+                "feature": 2,
+                "false": {
+                    "feature": 26,
+                    "false": null,
+                    "true": {
+                        "feature": 23,
+                        "false": {
+                            "feature": null,
+                            "false": null,
+                            "true": null,
+                            "prediction": 0
+                        },
+                        "true": {
+                            "feature": null,
+                            "false": null,
+                            "true": null,
+                            "prediction": 1
+                        }
+                    }
+                },
+                "true": {
+                    "feature": 11,
+                    "false": {
+                        "feature": null,
+                        "false": null,
+                        "true": null,
+                        "prediction": 0
+                    },
+                    "true": {
+                        "feature": null,
+                        "false": null,
+                        "true": null,
+                        "prediction": 1
+                    }
+                }
+            }
+        },
+        "true": {
+            "feature": 2,
+            "false": {
+                "feature": 26,
+                "false": null,
+                "true": {
+                    "feature": 17,
+                    "false": {
+                        "feature": null,
+                        "false": null,
+                        "true": null,
+                        "prediction": 0
+                    },
+                    "true": {
+                        "feature": null,
+                        "false": null,
+                        "true": null,
+                        "prediction": 1
+                    }
+                }
+            },
+            "true": {
+                "feature": 5,
+                "false": {
+                    "feature": null,
+                    "false": null,
+                    "true": null,
+                    "prediction": 0
+                },
+                "true": {
+                    "feature": null,
+                    "false": null,
+                    "true": null,
+                    "prediction": 1
+                }
+            }
+        }
+    }
+}
